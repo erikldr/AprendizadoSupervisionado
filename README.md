@@ -12,5 +12,5 @@ Dataset: Red Wine Quality - diponível em: https://www.kaggle.com/uciml/red-wine
 
 | Classificador | Acurácia | f1-score |
 | :--- | :---: | :---: |
-| 'NB Gaussian' | 0.8525 | 0.85 |
-| 'Decision Tree' | 0.8975 | 0.90 |
+| NB Gaussian | 0.8525 | 0.85 |
+| Decision Tree | 0.8975 | 0.90 |
