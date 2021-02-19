@@ -5,7 +5,7 @@ Projeto proposto pela professora Larissa Rodrigues na disciplina de Mineração 
 Foram comparados dois metodos de classificação (Naive Bayes Gaussian e Decision Tree).
 O objetivo era encontrar o melhor classificador e analisar as vantagens e desvantagens de cada um.
 
-**Dataset:**
+**Dataset 1:**
 Dataset: Red Wine Quality - diponível em: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
 **Resultados obtidos:**
@@ -15,7 +15,7 @@ Dataset: Red Wine Quality - diponível em: https://www.kaggle.com/uciml/red-wine
 | NB Gaussian | 0.8525 | 0.85 |
 | Decision Tree | 0.8975 | 0.90 |
 
-**Dataset:**
+**Dataset 2:**
 Dataset: Pima Indians Diabetes Database - diponível em: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 **Resultados obtidos:**
@@ -24,3 +24,13 @@ Dataset: Pima Indians Diabetes Database - diponível em: https://www.kaggle.com/
 | :--- | :---: | :---: |
 | NB Gaussian | 0.7403 | 0.74 |
 | Decision Tree | 0.6970 | 0.70 |
+
+**Dataset 3:**
+Dataset: Mushroom Classification - diponível em: https://www.kaggle.com/uciml/mushroom-classification
+
+**Resultados obtidos:**
+
+| Classificador | Acurácia | f1-score |
+| :--- | :---: | :---: |
+| NB Gaussian | 0.9266 | 0.93 |
+| Decision Tree | 1.0 | 1.00 |
