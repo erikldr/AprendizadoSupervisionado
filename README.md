@@ -14,3 +14,13 @@ Dataset: Red Wine Quality - diponível em: https://www.kaggle.com/uciml/red-wine
 | :--- | :---: | :---: |
 | NB Gaussian | 0.8525 | 0.85 |
 | Decision Tree | 0.8975 | 0.90 |
+
+**Dataset:**
+Dataset: Pima Indians Diabetes Database - diponível em: https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+**Resultados obtidos:**
+
+| Classificador | Acurácia | f1-score |
+| :--- | :---: | :---: |
+| NB Gaussian | 0.7403 | 0.74 |
+| Decision Tree | 0.6970 | 0.70 |
