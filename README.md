@@ -6,7 +6,7 @@ Foram comparados dois metodos de classificação (Naive Bayes Gaussian e Decisio
 O objetivo era encontrar o melhor classificador e analisar as vantagens e desvantagens de cada um.
 
 **Dataset 1:**
-Dataset: Red Wine Quality - diponível em: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+Red Wine Quality - diponível em: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
 **Resultados obtidos:**
 
@@ -16,7 +16,7 @@ Dataset: Red Wine Quality - diponível em: https://www.kaggle.com/uciml/red-wine
 | Decision Tree | 0.8975 | 0.90 |
 
 **Dataset 2:**
-Dataset: Pima Indians Diabetes Database - diponível em: https://www.kaggle.com/uciml/pima-indians-diabetes-database
+Pima Indians Diabetes Database - diponível em: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 **Resultados obtidos:**
 
@@ -26,7 +26,7 @@ Dataset: Pima Indians Diabetes Database - diponível em: https://www.kaggle.com/
 | Decision Tree | 0.6970 | 0.70 |
 
 **Dataset 3:**
-Dataset: Mushroom Classification - diponível em: https://www.kaggle.com/uciml/mushroom-classification
+Mushroom Classification - diponível em: https://www.kaggle.com/uciml/mushroom-classification
 
 **Resultados obtidos:**
 
