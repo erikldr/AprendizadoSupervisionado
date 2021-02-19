@@ -17,7 +17,7 @@ Red Wine Quality - diponível em: https://www.kaggle.com/uciml/red-wine-quality-
 
 Area da curva ROC: 
 | Classificador | Area |
-| :--- | :---: | :---: |
+| :--- | :---: |
 | Decision Tree | 0.805 |
 | NB Gaussian | 0.865 |
 
@@ -35,7 +35,7 @@ Pima Indians Diabetes Database - diponível em: https://www.kaggle.com/uciml/pim
 
 Area da curva ROC: 
 | Classificador | Area |
-| :--- | :---: | :---: |
+| :--- | :---: |
 | Decision Tree | 0.676 |
 | NB Gaussian | 0.801 |
 
@@ -52,7 +52,7 @@ Mushroom Classification - diponível em: https://www.kaggle.com/uciml/mushroom-c
 
 Area da curva ROC: 
 | Classificador | Area |
-| :--- | :---: | :---: |
+| :--- | :---: |
 | Decision Tree | 1.0 |
 | NB Gaussian | 0.956 |
 
